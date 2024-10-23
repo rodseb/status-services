@@ -17,7 +17,6 @@ sites:
     check: "tcp-ping"
     url: $SECRET_SITE5
     port: 465
-    ipv6: true
   - name: DNS 2
     url: $SECRET_SITE7
 status-website:
