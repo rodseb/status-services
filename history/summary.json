@@ -4,18 +4,19 @@
     "url": "$SECRET_SITE1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "panel-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1408,
     "timeDay": 1158,
     "timeWeek": 2013,
     "timeMonth": 1442,
     "timeYear": 1408,
     "dailyMinutesDown": {
+      "2024-11-25": 6,
       "2024-10-26": 9
     }
   },
@@ -24,18 +25,19 @@
     "url": "$SECRET_SITE2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail-rod",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.97%",
     "time": 1075,
     "timeDay": 932,
     "timeWeek": 1112,
     "timeMonth": 1079,
     "timeYear": 1075,
     "dailyMinutesDown": {
+      "2024-11-25": 5,
       "2024-10-23": 8
     }
   },
@@ -44,28 +46,30 @@
     "url": "$SECRET_SITE3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-rod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1607,
     "timeDay": 1321,
     "timeWeek": 1907,
     "timeMonth": 1667,
     "timeYear": 1607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-25": 3
+    }
   },
   {
     "name": "Site SPM",
     "url": "$SECRET_SITE4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-spm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1104,
@@ -73,16 +77,18 @@
     "timeWeek": 1165,
     "timeMonth": 1106,
     "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-25": 2
+    }
   },
   {
     "name": "webmail SPM",
     "url": "$SECRET_SITE6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail-spm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +97,9 @@
     "timeWeek": 916,
     "timeMonth": 852,
     "timeYear": 848,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-25": 0
+    }
   },
   {
     "name": "ping serveur mail",
