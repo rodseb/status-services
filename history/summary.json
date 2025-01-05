@@ -54,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-rod",
     "status": "up",
-    "uptime": "93.54%",
+    "uptime": "93.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.50%",
-    "uptimeYear": "93.54%",
+    "uptimeYear": "93.58%",
     "time": 1639,
     "timeDay": 1143,
     "timeWeek": 1688,
@@ -144,7 +144,7 @@
     "url": "$SECRET_SITE7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -155,6 +155,8 @@
     "timeWeek": 1249,
     "timeMonth": 1221,
     "timeYear": 1280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-05": 0
+    }
   }
 ]
