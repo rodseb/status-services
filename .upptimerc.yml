@@ -17,7 +17,7 @@ sites:
     check: "tcp-ping"
     url: $SECRET_SITE5
     port: 465
-  - name: DNS 2
+  - name: DNS backup
     url: $SECRET_SITE7
 status-website:
   # cname: demo.upptime.js.org
