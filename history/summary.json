@@ -106,11 +106,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail-rod",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.50%",
+    "uptimeDay": "89.76%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "99.52%",
     "time": 1056,
     "timeDay": 673,
     "timeWeek": 691,
@@ -138,7 +138,7 @@
       "2026-05-17": 120,
       "2026-05-20": 103,
       "2026-05-22": 344,
-      "2026-05-25": 6
+      "2026-05-25": 147
     }
   },
   {
@@ -147,11 +147,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-rod",
     "status": "down",
-    "uptime": "93.65%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "95.52%",
+    "uptime": "93.64%",
+    "uptimeDay": "89.78%",
+    "uptimeWeek": "94.11%",
     "uptimeMonth": "28.60%",
-    "uptimeYear": "91.26%",
+    "uptimeYear": "91.24%",
     "time": 1608,
     "timeDay": 673,
     "timeWeek": 1011,
@@ -197,7 +197,7 @@
       "2026-05-17": 119,
       "2026-05-20": 103,
       "2026-05-22": 344,
-      "2026-05-25": 5
+      "2026-05-25": 147
     }
   },
   {
@@ -206,11 +206,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-spm",
     "status": "down",
-    "uptime": "94.03%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "90.56%",
+    "uptime": "94.01%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "90.53%",
     "time": 1057,
     "timeDay": 691,
     "timeWeek": 740,
@@ -267,7 +267,7 @@
       "2026-05-17": 119,
       "2026-05-20": 102,
       "2026-05-22": 344,
-      "2026-05-25": 5
+      "2026-05-25": 147
     }
   },
   {
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-05-25": 119,
+      "2026-05-25": 260,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
