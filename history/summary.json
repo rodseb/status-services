@@ -104,14 +104,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail-rod",
     "status": "down",
-    "uptime": "98.27%",
-    "uptimeDay": "59.94%",
-    "uptimeWeek": "75.44%",
-    "uptimeMonth": "75.03%",
-    "uptimeYear": "97.42%",
+    "uptime": "98.24%",
+    "uptimeDay": "48.30%",
+    "uptimeWeek": "72.94%",
+    "uptimeMonth": "74.44%",
+    "uptimeYear": "97.37%",
     "time": 991,
-    "timeDay": 867,
-    "timeWeek": 756,
+    "timeDay": 760,
+    "timeWeek": 759,
     "timeMonth": 717,
     "timeYear": 967,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
       "2026-06-28": 504,
       "2026-06-29": 280,
       "2026-06-30": 577,
-      "2026-07-01": 4
+      "2026-07-01": 263
     }
   },
   {
@@ -172,14 +172,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-rod",
     "status": "down",
-    "uptime": "92.76%",
-    "uptimeDay": "59.98%",
-    "uptimeWeek": "75.47%",
-    "uptimeMonth": "75.06%",
-    "uptimeYear": "89.13%",
+    "uptime": "92.74%",
+    "uptimeDay": "48.34%",
+    "uptimeWeek": "72.97%",
+    "uptimeMonth": "74.46%",
+    "uptimeYear": "89.08%",
     "time": 1488,
-    "timeDay": 1196,
-    "timeWeek": 1165,
+    "timeDay": 1026,
+    "timeWeek": 1155,
     "timeMonth": 1041,
     "timeYear": 1408,
     "dailyMinutesDown": {
@@ -250,7 +250,7 @@
       "2026-06-28": 505,
       "2026-06-29": 280,
       "2026-06-30": 576,
-      "2026-07-01": 4
+      "2026-07-01": 263
     }
   },
   {
@@ -259,14 +259,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-spm",
     "status": "down",
-    "uptime": "93.12%",
-    "uptimeDay": "60.02%",
-    "uptimeWeek": "75.50%",
-    "uptimeMonth": "75.08%",
-    "uptimeYear": "88.43%",
+    "uptime": "93.09%",
+    "uptimeDay": "48.38%",
+    "uptimeWeek": "73.00%",
+    "uptimeMonth": "74.49%",
+    "uptimeYear": "88.38%",
     "time": 1018,
-    "timeDay": 1149,
-    "timeWeek": 977,
+    "timeDay": 1181,
+    "timeWeek": 952,
     "timeMonth": 819,
     "timeYear": 1000,
     "dailyMinutesDown": {
@@ -347,7 +347,7 @@
       "2026-06-28": 505,
       "2026-06-29": 279,
       "2026-06-30": 575,
-      "2026-07-01": 4
+      "2026-07-01": 263
     }
   },
   {
@@ -430,18 +430,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-backup",
     "status": "down",
-    "uptime": "6.05%",
+    "uptime": "6.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "6.05%",
+    "uptimeYear": "6.04%",
     "time": 1127,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-07-01": 4,
+      "2026-07-01": 263,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
