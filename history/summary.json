@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "panel-site",
     "status": "up",
-    "uptime": "87.52%",
+    "uptime": "87.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -103,16 +103,16 @@
     "url": "$SECRET_SITE2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webmail-rod",
-    "status": "down",
-    "uptime": "98.16%",
-    "uptimeDay": "76.05%",
-    "uptimeWeek": "73.25%",
-    "uptimeMonth": "77.04%",
-    "uptimeYear": "97.19%",
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "71.99%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "76.91%",
+    "uptimeYear": "97.18%",
     "time": 977,
-    "timeDay": 578,
-    "timeWeek": 699,
-    "timeMonth": 714,
+    "timeDay": 627,
+    "timeWeek": 706,
+    "timeMonth": 716,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2025-12-04": 30,
@@ -166,7 +166,7 @@
       "2026-07-01": 596,
       "2026-07-02": 253,
       "2026-07-03": 210,
-      "2026-07-04": 135
+      "2026-07-04": 193
     }
   },
   {
@@ -174,16 +174,16 @@
     "url": "$SECRET_SITE3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-rod",
-    "status": "down",
+    "status": "up",
     "uptime": "92.67%",
-    "uptimeDay": "76.10%",
-    "uptimeWeek": "73.29%",
-    "uptimeMonth": "77.07%",
-    "uptimeYear": "88.90%",
+    "uptimeDay": "72.03%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "76.93%",
+    "uptimeYear": "88.89%",
     "time": 1493,
-    "timeDay": 1563,
-    "timeWeek": 1187,
-    "timeMonth": 1077,
+    "timeDay": 1589,
+    "timeWeek": 1201,
+    "timeMonth": 1083,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2025-11-24": 20,
@@ -256,7 +256,7 @@
       "2026-07-01": 595,
       "2026-07-02": 252,
       "2026-07-03": 210,
-      "2026-07-04": 134
+      "2026-07-04": 193
     }
   },
   {
@@ -264,16 +264,16 @@
     "url": "$SECRET_SITE4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-spm",
-    "status": "down",
-    "uptime": "93.03%",
-    "uptimeDay": "76.16%",
-    "uptimeWeek": "73.33%",
-    "uptimeMonth": "77.09%",
-    "uptimeYear": "88.20%",
-    "time": 1015,
-    "timeDay": 1013,
-    "timeWeek": 1093,
-    "timeMonth": 851,
+    "status": "up",
+    "uptime": "93.02%",
+    "uptimeDay": "72.09%",
+    "uptimeWeek": "72.75%",
+    "uptimeMonth": "76.96%",
+    "uptimeYear": "88.19%",
+    "time": 1016,
+    "timeDay": 1069,
+    "timeWeek": 1102,
+    "timeMonth": 855,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-11-22": 326,
@@ -356,7 +356,7 @@
       "2026-07-01": 595,
       "2026-07-02": 252,
       "2026-07-03": 210,
-      "2026-07-04": 134
+      "2026-07-04": 193
     }
   },
   {
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-07-04": 1000,
+      "2026-07-04": 1063,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
